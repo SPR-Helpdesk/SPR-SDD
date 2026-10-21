@@ -26,7 +26,7 @@ Everything here is generic. Client specifics live in the client's repo, never in
 ### 1. Get the toolkit
 
 ```bash
-git clone https://github.com/josephinewoodspr/spr-sdd-toolkit.git ~/spr-sdd-toolkit
+git clone https://github.com/SPR-Helpdesk/SPR-SDD.git ~/spr-sdd-toolkit
 ```
 
 Keep it as a standalone checkout. Never nest it inside a client repo.
